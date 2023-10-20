@@ -1,0 +1,2002 @@
+Mejor Fitness Epoca: 0 : 18.186681211184368
+Mejor solución encontrada: [0.05713377 1.68763906]
+Mejor Fitness Epoca: 1 : 11.439775288908791
+Mejor solución encontrada: [1.12651727 1.86897215]
+Mejor Fitness Epoca: 2 : 12.148396965092534
+Mejor solución encontrada: [0.09317212 2.05641071]
+Mejor Fitness Epoca: 3 : 6.877633643919104
+Mejor solución encontrada: [-0.03253681  1.98455449]
+Mejor Fitness Epoca: 4 : 21.93130599444243
+Mejor solución encontrada: [-0.34918571  2.14022891]
+Mejor Fitness Epoca: 5 : 28.112369786590435
+Mejor solución encontrada: [-0.40953842  2.16990017]
+Mejor Fitness Epoca: 6 : 23.58119792318702
+Mejor solución encontrada: [-0.33326652  2.13240254]
+Mejor Fitness Epoca: 7 : 4.418918794590272
+Mejor solución encontrada: [0.03637863 1.98138432]
+Mejor Fitness Epoca: 8 : 9.956623175495578
+Mejor solución encontrada: [0.02301112 1.96635214]
+Mejor Fitness Epoca: 9 : 8.965071748223027
+Mejor solución encontrada: [0.99630568 1.93056919]
+Mejor Fitness Epoca: 10 : 7.283986034846414
+Mejor solución encontrada: [1.13638239 1.93209623]
+Mejor Fitness Epoca: 11 : 8.910993238640241
+Mejor solución encontrada: [1.01647759 1.9291665 ]
+Mejor Fitness Epoca: 12 : 8.339424285606581
+Mejor solución encontrada: [1.13907109 1.9731735 ]
+Mejor Fitness Epoca: 13 : 6.049892986140854
+Mejor solución encontrada: [1.43225372 2.04036562]
+Mejor Fitness Epoca: 14 : 5.947923289116098
+Mejor solución encontrada: [1.43446447 2.04087228]
+Mejor Fitness Epoca: 15 : 6.110245560077733
+Mejor solución encontrada: [1.41363922 2.03609951]
+Mejor Fitness Epoca: 16 : 16.230364124191375
+Mejor solución encontrada: [1.30133371 2.01036114]
+Mejor Fitness Epoca: 17 : 16.64432419237321
+Mejor solución encontrada: [1.15417448 1.93389543]
+Mejor Fitness Epoca: 18 : 5.7673467677824775
+Mejor solución encontrada: [1.10488473 1.95113549]
+Mejor Fitness Epoca: 19 : 20.558961350826237
+Mejor solución encontrada: [1.03416685 1.91157819]
+Mejor Fitness Epoca: 20 : 25.137569880443163
+Mejor solución encontrada: [0.99880791 1.89179954]
+Mejor Fitness Epoca: 21 : 18.12140644728618
+Mejor solución encontrada: [1.02045448 1.9021727 ]
+Mejor Fitness Epoca: 22 : 22.11666608214196
+Mejor solución encontrada: [1.01347606 1.90083334]
+Mejor Fitness Epoca: 23 : 24.363086178199616
+Mejor solución encontrada: [1.02449953 1.90841291]
+Mejor Fitness Epoca: 24 : 21.524706981763778
+Mejor solución encontrada: [1.02944831 1.91204741]
+Mejor Fitness Epoca: 25 : 15.077704768634373
+Mejor solución encontrada: [1.03192271 1.91386467]
+Mejor Fitness Epoca: 26 : 11.058313168859735
+Mejor solución encontrada: [0.08447082 1.94499042]
+Mejor Fitness Epoca: 27 : 15.270049675014285
+Mejor solución encontrada: [-1.46119435e-03  1.94760958e+00]
+Mejor Fitness Epoca: 28 : 23.203562352931147
+Mejor solución encontrada: [-7.30456974e-04  1.97712769e+00]
+Mejor Fitness Epoca: 29 : 23.853167757386387
+Mejor solución encontrada: [-0.01576366  1.97422343]
+Mejor Fitness Epoca: 30 : 22.64982109496505
+Mejor solución encontrada: [-0.40881031  1.99776956]
+Mejor Fitness Epoca: 31 : 15.539537593176153
+Mejor solución encontrada: [-0.42007706  1.99844451]
+Mejor Fitness Epoca: 32 : 4.892829439530448
+Mejor solución encontrada: [0.0103271  1.97353749]
+Mejor Fitness Epoca: 33 : 4.8795828391235645
+Mejor solución encontrada: [0.00489485 1.97479275]
+Mejor Fitness Epoca: 34 : 4.177069043860325
+Mejor solución encontrada: [-0.02703653  1.97916404]
+Mejor Fitness Epoca: 35 : 4.038290044534076
+Mejor solución encontrada: [-0.00243216  1.97654549]
+Mejor Fitness Epoca: 36 : 6.167885156823736
+Mejor solución encontrada: [-0.10266778  1.98273561]
+Mejor Fitness Epoca: 37 : 5.761269233823043
+Mejor solución encontrada: [-0.02021119  1.97829421]
+Mejor Fitness Epoca: 38 : 5.0925197216415015
+Mejor solución encontrada: [-1.17690403e-03  1.97645209e+00]
+Mejor Fitness Epoca: 39 : 4.157687992836948
+Mejor solución encontrada: [-0.01389653  1.97627147]
+Mejor Fitness Epoca: 40 : 4.1920001960167745
+Mejor solución encontrada: [0.0033638  1.97524779]
+Mejor Fitness Epoca: 41 : 4.033469667997746
+Mejor solución encontrada: [0.00393958 1.9739087 ]
+Mejor Fitness Epoca: 42 : 4.040178343361436
+Mejor solución encontrada: [-0.00808258  1.97441948]
+Mejor Fitness Epoca: 43 : 4.044405228388856
+Mejor solución encontrada: [-0.00390318  1.97576161]
+Mejor Fitness Epoca: 44 : 4.0214780854055
+Mejor solución encontrada: [-7.44016854e-04  1.97540928e+00]
+Mejor Fitness Epoca: 45 : 4.024478673049899
+Mejor solución encontrada: [0.00418604 1.97547338]
+Mejor Fitness Epoca: 46 : 4.0255121260644415
+Mejor solución encontrada: [1.66513080e-03 1.97537593e+00]
+Mejor Fitness Epoca: 47 : 4.027219429197194
+Mejor solución encontrada: [0.01041324 1.97516412]
+Mejor Fitness Epoca: 48 : 4.031497437921546
+Mejor solución encontrada: [0.0140219  1.97507675]
+Mejor Fitness Epoca: 49 : 4.030231951758582
+Mejor solución encontrada: [0.01019756 1.97516934]
+Mejor Fitness Epoca: 50 : 4.021747040205593
+Mejor solución encontrada: [-1.23371214e-03  1.97559324e+00]
+Mejor Fitness Epoca: 51 : 4.018773176751669
+Mejor solución encontrada: [-8.22335499e-04  1.97634864e+00]
+Mejor Fitness Epoca: 52 : 4.02080230020794
+Mejor solución encontrada: [-0.00403256  1.9761253 ]
+Mejor Fitness Epoca: 53 : 4.024015663221318
+Mejor solución encontrada: [-0.00683908  1.97646669]
+Mejor Fitness Epoca: 54 : 4.0229703814305005
+Mejor solución encontrada: [-0.00711768  1.97650058]
+Mejor Fitness Epoca: 55 : 4.022153919359312
+Mejor solución encontrada: [-0.0067332   1.97645381]
+Mejor Fitness Epoca: 56 : 4.019763472316022
+Mejor solución encontrada: [-0.00377116  1.97610364]
+Mejor Fitness Epoca: 57 : 4.01922842245501
+Mejor solución encontrada: [-0.00307006  1.97601121]
+Mejor Fitness Epoca: 58 : 4.019006445372661
+Mejor solución encontrada: [-0.00240965  1.97592886]
+Mejor Fitness Epoca: 59 : 4.0188517172983875
+Mejor solución encontrada: [-1.4803976e-03  1.9758326e+00]
+Mejor Fitness Epoca: 60 : 4.018775326354174
+Mejor solución encontrada: [-1.42256166e-03  1.97588034e+00]
+Mejor Fitness Epoca: 61 : 4.018756877016635
+Mejor solución encontrada: [-1.89021334e-03  1.97600191e+00]
+Mejor Fitness Epoca: 62 : 4.018671031710284
+Mejor solución encontrada: [-1.61252386e-03  1.97598932e+00]
+Mejor Fitness Epoca: 63 : 4.018472382191458
+Mejor solución encontrada: [-0.00201041  1.97607891]
+Mejor Fitness Epoca: 64 : 4.018243405453877
+Mejor solución encontrada: [-1.94103652e-03  1.97610562e+00]
+Mejor Fitness Epoca: 65 : 4.018075310316606
+Mejor solución encontrada: [-0.0023738   1.97620215]
+Mejor Fitness Epoca: 66 : 4.0180044345770725
+Mejor solución encontrada: [-0.00237166  1.97621788]
+Mejor Fitness Epoca: 67 : 4.01788965933293
+Mejor solución encontrada: [-0.00226494  1.97621843]
+Mejor Fitness Epoca: 68 : 4.017816240972071
+Mejor solución encontrada: [-0.00221914  1.97623313]
+Mejor Fitness Epoca: 69 : 4.017678145828089
+Mejor solución encontrada: [-0.00218089  1.97624352]
+Mejor Fitness Epoca: 70 : 4.017558639765699
+Mejor solución encontrada: [-0.00202685  1.97624173]
+Mejor Fitness Epoca: 71 : 4.017496391698105
+Mejor solución encontrada: [-0.00203528  1.9762554 ]
+Mejor Fitness Epoca: 72 : 4.017449534242269
+Mejor solución encontrada: [-1.92012250e-03  1.97624647e+00]
+Mejor Fitness Epoca: 73 : 4.017365463319676
+Mejor solución encontrada: [-1.85540397e-03  1.97625577e+00]
+Mejor Fitness Epoca: 74 : 4.017283757742174
+Mejor solución encontrada: [-1.78112796e-03  1.97625830e+00]
+Mejor Fitness Epoca: 75 : 4.017242609481157
+Mejor solución encontrada: [-1.73221338e-03  1.97625961e+00]
+Mejor Fitness Epoca: 76 : 4.017205495145289
+Mejor solución encontrada: [-1.67570478e-03  1.97626044e+00]
+Mejor Fitness Epoca: 77 : 4.017106812737698
+Mejor solución encontrada: [-1.57654769e-03  1.97626585e+00]
+Mejor Fitness Epoca: 78 : 4.017055304640445
+Mejor solución encontrada: [-1.51934173e-03  1.97626889e+00]
+Mejor Fitness Epoca: 79 : 4.017027870319051
+Mejor solución encontrada: [-1.48987263e-03  1.97627072e+00]
+Mejor Fitness Epoca: 80 : 4.016998580526041
+Mejor solución encontrada: [-1.45186373e-03  1.97627525e+00]
+Mejor Fitness Epoca: 81 : 4.016934298668636
+Mejor solución encontrada: [-1.39560534e-03  1.97627808e+00]
+Mejor Fitness Epoca: 82 : 4.016896734639712
+Mejor solución encontrada: [-1.35176924e-03  1.97628063e+00]
+Mejor Fitness Epoca: 83 : 4.016867914019084
+Mejor solución encontrada: [-1.31602620e-03  1.97628247e+00]
+Mejor Fitness Epoca: 84 : 4.016851171417068
+Mejor solución encontrada: [-1.29574830e-03  1.97628363e+00]
+Mejor Fitness Epoca: 85 : 4.0168200420342295
+Mejor solución encontrada: [-1.25770729e-03  1.97628583e+00]
+Mejor Fitness Epoca: 86 : 4.016800460905593
+Mejor solución encontrada: [-1.23120247e-03  1.97628789e+00]
+Mejor Fitness Epoca: 87 : 4.016788823644292
+Mejor solución encontrada: [-1.20832724e-03  1.97628871e+00]
+Mejor Fitness Epoca: 88 : 4.016750835049002
+Mejor solución encontrada: [-1.17281715e-03  1.97629110e+00]
+Mejor Fitness Epoca: 89 : 4.0167108793498905
+Mejor solución encontrada: [-1.12219162e-03  1.97629424e+00]
+Mejor Fitness Epoca: 90 : 4.01668826801029
+Mejor solución encontrada: [-1.09314443e-03  1.97629608e+00]
+Mejor Fitness Epoca: 91 : 4.0166713896105435
+Mejor solución encontrada: [-1.07113052e-03  1.97629746e+00]
+Mejor Fitness Epoca: 92 : 4.016647838801484
+Mejor solución encontrada: [-1.02558652e-03  1.97630033e+00]
+Mejor Fitness Epoca: 93 : 4.016404388231036
+Mejor solución encontrada: [-0.00200197  1.97647861]
+Mejor Fitness Epoca: 94 : 4.016182770734208
+Mejor solución encontrada: [-0.00244129  1.97656892]
+Mejor Fitness Epoca: 95 : 4.016105157535682
+Mejor solución encontrada: [-0.00222111  1.9765585 ]
+Mejor Fitness Epoca: 96 : 4.016016997399415
+Mejor solución encontrada: [-0.00231925  1.97662092]
+Mejor Fitness Epoca: 97 : 4.015923132422028
+Mejor solución encontrada: [-0.00239762  1.97665282]
+Mejor Fitness Epoca: 98 : 4.015720300092999
+Mejor solución encontrada: [-0.00250806  1.97671708]
+Mejor Fitness Epoca: 99 : 4.015402357221884
+Mejor solución encontrada: [-0.00254237  1.97676165]
+Mejor Fitness Epoca: 100 : 4.015002456816948
+Mejor solución encontrada: [-0.0026095   1.97682768]
+Mejor Fitness Epoca: 101 : 4.014758740474468
+Mejor solución encontrada: [-0.00268962  1.97689136]
+Mejor Fitness Epoca: 102 : 4.014614829084298
+Mejor solución encontrada: [-0.00272329  1.97692646]
+Mejor Fitness Epoca: 103 : 4.0145074944123476
+Mejor solución encontrada: [-0.00273212  1.9769761 ]
+Mejor Fitness Epoca: 104 : 4.0141445681079055
+Mejor solución encontrada: [-0.00280757  1.97707086]
+Mejor Fitness Epoca: 105 : 4.013560663304238
+Mejor solución encontrada: [-0.00288202  1.97719297]
+Mejor Fitness Epoca: 106 : 4.01318516820977
+Mejor solución encontrada: [-0.00292054  1.97726482]
+Mejor Fitness Epoca: 107 : 4.012996441195156
+Mejor solución encontrada: [-0.00296731  1.97733745]
+Mejor Fitness Epoca: 108 : 4.012253475639767
+Mejor solución encontrada: [-1.92281878e-03  1.97727679e+00]
+Mejor Fitness Epoca: 109 : 4.011785632952488
+Mejor solución encontrada: [-1.28393422e-03  1.97733590e+00]
+Mejor Fitness Epoca: 110 : 4.011257654164474
+Mejor solución encontrada: [-7.83247384e-04  1.97734274e+00]
+Mejor Fitness Epoca: 111 : 4.0110345911871
+Mejor solución encontrada: [-3.19972583e-04  1.97735534e+00]
+Mejor Fitness Epoca: 112 : 4.010893218492711
+Mejor solución encontrada: [1.34453986e-04 1.97737406e+00]
+Mejor Fitness Epoca: 113 : 4.0108127950685954
+Mejor solución encontrada: [7.62953693e-05 1.97739031e+00]
+Mejor Fitness Epoca: 114 : 4.010774578946066
+Mejor solución encontrada: [5.03465396e-04 1.97741218e+00]
+Mejor Fitness Epoca: 115 : 4.010678825353811
+Mejor solución encontrada: [5.04130958e-04 1.97743576e+00]
+Mejor Fitness Epoca: 116 : 4.010615538607716
+Mejor solución encontrada: [5.30252896e-04 1.97745114e+00]
+Mejor Fitness Epoca: 117 : 4.010491243838343
+Mejor solución encontrada: [5.66786213e-04 1.97746782e+00]
+Mejor Fitness Epoca: 118 : 4.010342374037952
+Mejor solución encontrada: [4.95476962e-04 1.97749510e+00]
+Mejor Fitness Epoca: 119 : 4.010115092014466
+Mejor solución encontrada: [4.11124574e-04 1.97753846e+00]
+Mejor Fitness Epoca: 120 : 4.00994963588847
+Mejor solución encontrada: [3.21262258e-04 1.97757958e+00]
+Mejor Fitness Epoca: 121 : 4.009805266002907
+Mejor solución encontrada: [1.92093080e-04 1.97762229e+00]
+Mejor Fitness Epoca: 122 : 4.009630258111468
+Mejor solución encontrada: [1.19574152e-04 1.97764505e+00]
+Mejor Fitness Epoca: 123 : 4.009402996165209
+Mejor solución encontrada: [2.28720713e-05 1.97767824e+00]
+Mejor Fitness Epoca: 124 : 4.009274645985627
+Mejor solución encontrada: [-4.06433810e-05  1.97771639e+00]
+Mejor Fitness Epoca: 125 : 4.009171862974618
+Mejor solución encontrada: [-2.37132537e-04  1.97779633e+00]
+Mejor Fitness Epoca: 126 : 4.008747993674696
+Mejor solución encontrada: [-3.65654138e-04  1.97784833e+00]
+Mejor Fitness Epoca: 127 : 4.008307263786413
+Mejor solución encontrada: [-5.30387624e-04  1.97791909e+00]
+Mejor Fitness Epoca: 128 : 4.008067117049283
+Mejor solución encontrada: [-6.6134299e-04  1.9779765e+00]
+Mejor Fitness Epoca: 129 : 4.007849922289672
+Mejor solución encontrada: [-8.58352011e-04  1.97805407e+00]
+Mejor Fitness Epoca: 130 : 4.007575541314223
+Mejor solución encontrada: [-1.04369169e-03  1.97813424e+00]
+Mejor Fitness Epoca: 131 : 4.007286736321646
+Mejor solución encontrada: [-1.36322495e-03  1.97828259e+00]
+Mejor Fitness Epoca: 132 : 4.007031632544912
+Mejor solución encontrada: [-1.65104143e-03  1.97840962e+00]
+Mejor Fitness Epoca: 133 : 4.006719794562418
+Mejor solución encontrada: [-1.88413455e-03  1.97851342e+00]
+Mejor Fitness Epoca: 134 : 4.006015096012856
+Mejor solución encontrada: [-0.00213359  1.97861902]
+Mejor Fitness Epoca: 135 : 4.005697933513515
+Mejor solución encontrada: [-0.00242841  1.97875213]
+Mejor Fitness Epoca: 136 : 4.005523554950848
+Mejor solución encontrada: [-0.00276653  1.97890314]
+Mejor Fitness Epoca: 137 : 4.0053154951297625
+Mejor solución encontrada: [-0.00304083  1.97902864]
+Mejor Fitness Epoca: 138 : 4.004992786697743
+Mejor solución encontrada: [-0.00329307  1.97914515]
+Mejor Fitness Epoca: 139 : 4.004855724042095
+Mejor solución encontrada: [-0.00343388  1.97921001]
+Mejor Fitness Epoca: 140 : 4.0046858256939295
+Mejor solución encontrada: [-0.00369244  1.979326  ]
+Mejor Fitness Epoca: 141 : 4.004583232319886
+Mejor solución encontrada: [-0.00396648  1.97945088]
+Mejor Fitness Epoca: 142 : 4.004525799517333
+Mejor solución encontrada: [-0.00418969  1.97955269]
+Mejor Fitness Epoca: 143 : 4.0045014542785395
+Mejor solución encontrada: [-0.00460914  1.9797441 ]
+Mejor Fitness Epoca: 144 : 4.004485755512121
+Mejor solución encontrada: [-0.00463481  1.97975531]
+Mejor Fitness Epoca: 145 : 4.004483630917589
+Mejor solución encontrada: [-0.00459261  1.97973637]
+Mejor Fitness Epoca: 146 : 4.00449333570066
+Mejor solución encontrada: [-0.00476599  1.97981541]
+Mejor Fitness Epoca: 147 : 4.004488700950196
+Mejor solución encontrada: [-0.00463351  1.97975494]
+Mejor Fitness Epoca: 148 : 4.004483689162775
+Mejor solución encontrada: [-0.00460627  1.97974246]
+Mejor Fitness Epoca: 149 : 4.004483262426305
+Mejor solución encontrada: [-0.00461231  1.97974541]
+Mejor Fitness Epoca: 150 : 4.0044838417048965
+Mejor solución encontrada: [-0.00457658  1.97972924]
+Mejor Fitness Epoca: 151 : 4.004482915026282
+Mejor solución encontrada: [-0.00458903  1.97973501]
+Mejor Fitness Epoca: 152 : 4.004481956712745
+Mejor solución encontrada: [-0.00458092  1.97973141]
+Mejor Fitness Epoca: 153 : 4.004481232579648
+Mejor solución encontrada: [-0.00459121  1.9797362 ]
+Mejor Fitness Epoca: 154 : 4.004480744013714
+Mejor solución encontrada: [-0.00460848  1.97974421]
+Mejor Fitness Epoca: 155 : 4.004480311007061
+Mejor solución encontrada: [-0.00462721  1.97975288]
+Mejor Fitness Epoca: 156 : 4.004479946390283
+Mejor solución encontrada: [-0.00463685  1.97975736]
+Mejor Fitness Epoca: 157 : 4.004479753842874
+Mejor solución encontrada: [-0.00464025  1.97975903]
+Mejor Fitness Epoca: 158 : 4.004478990286033
+Mejor solución encontrada: [-0.00466303  1.97976962]
+Mejor Fitness Epoca: 159 : 4.004478229706729
+Mejor solución encontrada: [-0.00469144  1.97978294]
+Mejor Fitness Epoca: 160 : 4.004478039743544
+Mejor solución encontrada: [-0.00470911  1.97979123]
+Mejor Fitness Epoca: 161 : 4.004477974697069
+Mejor solución encontrada: [-0.00471817  1.97979549]
+Mejor Fitness Epoca: 162 : 4.004477950435703
+Mejor solución encontrada: [-0.00472228  1.97979742]
+Mejor Fitness Epoca: 163 : 4.004477865062128
+Mejor solución encontrada: [-0.00473029  1.97980121]
+Mejor Fitness Epoca: 164 : 4.0044777465446195
+Mejor solución encontrada: [-0.00473805  1.97980489]
+Mejor Fitness Epoca: 165 : 4.004477695235671
+Mejor solución encontrada: [-0.00474251  1.979807  ]
+Mejor Fitness Epoca: 166 : 4.004477672105873
+Mejor solución encontrada: [-0.00474387  1.97980766]
+Mejor Fitness Epoca: 167 : 4.004477650211273
+Mejor solución encontrada: [-0.00474752  1.97980941]
+Mejor Fitness Epoca: 168 : 4.0044775060787465
+Mejor solución encontrada: [-0.00474817  1.97980976]
+Mejor Fitness Epoca: 169 : 4.004477235096662
+Mejor solución encontrada: [-0.00474783  1.97980962]
+Mejor Fitness Epoca: 170 : 4.004477075262631
+Mejor solución encontrada: [-0.00474714  1.97980934]
+Mejor Fitness Epoca: 171 : 4.004476992163104
+Mejor solución encontrada: [-0.00474679  1.97980919]
+Mejor Fitness Epoca: 172 : 4.004476899176332
+Mejor solución encontrada: [-0.00474708  1.97980935]
+Mejor Fitness Epoca: 173 : 4.004476690149927
+Mejor solución encontrada: [-0.00474601  1.9798089 ]
+Mejor Fitness Epoca: 174 : 4.004476528957046
+Mejor solución encontrada: [-0.00474368  1.97980786]
+Mejor Fitness Epoca: 175 : 4.0044763305172495
+Mejor solución encontrada: [-0.00474112  1.97980671]
+Mejor Fitness Epoca: 176 : 4.004475979516286
+Mejor solución encontrada: [-0.00473882  1.97980569]
+Mejor Fitness Epoca: 177 : 4.004475692330638
+Mejor solución encontrada: [-0.0047355  1.9798042]
+Mejor Fitness Epoca: 178 : 4.004475463433133
+Mejor solución encontrada: [-0.00473269  1.97980296]
+Mejor Fitness Epoca: 179 : 4.004475059048332
+Mejor solución encontrada: [-0.00472907  1.97980134]
+Mejor Fitness Epoca: 180 : 4.004474541219267
+Mejor solución encontrada: [-0.00472334  1.97979877]
+Mejor Fitness Epoca: 181 : 4.004474246847527
+Mejor solución encontrada: [-0.00471884  1.97979675]
+Mejor Fitness Epoca: 182 : 4.004473834143713
+Mejor solución encontrada: [-0.00471505  1.97979507]
+Mejor Fitness Epoca: 183 : 4.004473496020546
+Mejor solución encontrada: [-0.00470948  1.97979259]
+Mejor Fitness Epoca: 184 : 4.0044730170208584
+Mejor solución encontrada: [-0.00470158  1.97978907]
+Mejor Fitness Epoca: 185 : 4.004472360279081
+Mejor solución encontrada: [-0.00469729  1.97978716]
+Mejor Fitness Epoca: 186 : 4.004471672221971
+Mejor solución encontrada: [-0.00469004  1.97978393]
+Mejor Fitness Epoca: 187 : 4.004471324508273
+Mejor solución encontrada: [-0.00468561  1.97978196]
+Mejor Fitness Epoca: 188 : 4.004471034009546
+Mejor solución encontrada: [-0.00467968  1.97977932]
+Mejor Fitness Epoca: 189 : 4.0044705286579685
+Mejor solución encontrada: [-0.00467515  1.97977731]
+Mejor Fitness Epoca: 190 : 4.004470231788746
+Mejor solución encontrada: [-0.00466996  1.97977499]
+Mejor Fitness Epoca: 191 : 4.004469688729063
+Mejor solución encontrada: [-0.00465789  1.97976962]
+Mejor Fitness Epoca: 192 : 4.004468984962486
+Mejor solución encontrada: [-0.00464675  1.97976467]
+Mejor Fitness Epoca: 193 : 4.004468538581847
+Mejor solución encontrada: [-0.00464014  1.97976172]
+Mejor Fitness Epoca: 194 : 4.004467869844069
+Mejor solución encontrada: [-0.00462694  1.97975585]
+Mejor Fitness Epoca: 195 : 4.0044671054460395
+Mejor solución encontrada: [-0.00461744  1.97975162]
+Mejor Fitness Epoca: 196 : 4.004466607408132
+Mejor solución encontrada: [-0.00460575  1.97974641]
+Mejor Fitness Epoca: 197 : 4.004466223781726
+Mejor solución encontrada: [-0.00459551  1.97974185]
+Mejor Fitness Epoca: 198 : 4.00446595113884
+Mejor solución encontrada: [-0.00458638  1.97973779]
+Mejor Fitness Epoca: 199 : 4.004465502908129
+Mejor solución encontrada: [-0.00456342  1.97972757]
+Mejor Fitness Epoca: 200 : 4.00446515167247
+Mejor solución encontrada: [-0.0045481   1.97972075]
+Mejor Fitness Epoca: 201 : 4.0044649533449075
+Mejor solución encontrada: [-0.00453072  1.97971301]
+Mejor Fitness Epoca: 202 : 4.004464938191273
+Mejor solución encontrada: [-0.00452222  1.97970922]
+Mejor Fitness Epoca: 203 : 4.0044649670029795
+Mejor solución encontrada: [-0.00451614  1.97970652]
+Mejor Fitness Epoca: 204 : 4.004464948560143
+Mejor solución encontrada: [-0.00451924  1.9797079 ]
+Mejor Fitness Epoca: 205 : 4.004464938334644
+Mejor solución encontrada: [-0.00451488  1.97970596]
+Mejor Fitness Epoca: 206 : 4.004464936370715
+Mejor solución encontrada: [-0.00451907  1.97970782]
+Mejor Fitness Epoca: 207 : 4.004464934897797
+Mejor solución encontrada: [-0.00452171  1.979709  ]
+Mejor Fitness Epoca: 208 : 4.004464934610926
+Mejor solución encontrada: [-0.00452188  1.97970907]
+Mejor Fitness Epoca: 209 : 4.004464934746839
+Mejor solución encontrada: [-0.00452251  1.97970935]
+Mejor Fitness Epoca: 210 : 4.004464934590633
+Mejor solución encontrada: [-0.00452165  1.97970897]
+Mejor Fitness Epoca: 211 : 4.004464934526805
+Mejor solución encontrada: [-0.00452192  1.97970909]
+Mejor Fitness Epoca: 212 : 4.004464934498401
+Mejor solución encontrada: [-0.00452173  1.97970901]
+Mejor Fitness Epoca: 213 : 4.004464934478447
+Mejor solución encontrada: [-0.0045215  1.9797089]
+Mejor Fitness Epoca: 214 : 4.004464934447483
+Mejor solución encontrada: [-0.00452164  1.97970897]
+Mejor Fitness Epoca: 215 : 4.004464934369572
+Mejor solución encontrada: [-0.00452159  1.97970895]
+Mejor Fitness Epoca: 216 : 4.004464934284655
+Mejor solución encontrada: [-0.00452178  1.97970903]
+Mejor Fitness Epoca: 217 : 4.004464934218422
+Mejor solución encontrada: [-0.00452213  1.97970919]
+Mejor Fitness Epoca: 218 : 4.004464934133576
+Mejor solución encontrada: [-0.00452199  1.97970912]
+Mejor Fitness Epoca: 219 : 4.004464934055058
+Mejor solución encontrada: [-0.00452215  1.97970919]
+Mejor Fitness Epoca: 220 : 4.00446493399655
+Mejor solución encontrada: [-0.00452209  1.97970917]
+Mejor Fitness Epoca: 221 : 4.0044649339372835
+Mejor solución encontrada: [-0.00452207  1.97970916]
+Mejor Fitness Epoca: 222 : 4.004464933856596
+Mejor solución encontrada: [-0.00452224  1.97970923]
+Mejor Fitness Epoca: 223 : 4.004464933786554
+Mejor solución encontrada: [-0.0045223   1.97970926]
+Mejor Fitness Epoca: 224 : 4.004464933646927
+Mejor solución encontrada: [-0.00452227  1.97970925]
+Mejor Fitness Epoca: 225 : 4.0044649335491656
+Mejor solución encontrada: [-0.00452229  1.97970926]
+Mejor Fitness Epoca: 226 : 4.0044649334516365
+Mejor solución encontrada: [-0.00452234  1.97970928]
+Mejor Fitness Epoca: 227 : 4.00446493324351
+Mejor solución encontrada: [-0.00452248  1.97970934]
+Mejor Fitness Epoca: 228 : 4.00446493298136
+Mejor solución encontrada: [-0.00452262  1.9797094 ]
+Mejor Fitness Epoca: 229 : 4.004464932806691
+Mejor solución encontrada: [-0.00452275  1.97970946]
+Mejor Fitness Epoca: 230 : 4.004464932664499
+Mejor solución encontrada: [-0.0045229   1.97970953]
+Mejor Fitness Epoca: 231 : 4.004464932132153
+Mejor solución encontrada: [-0.00452321  1.97970966]
+Mejor Fitness Epoca: 232 : 4.004464931685911
+Mejor solución encontrada: [-0.00452351  1.9797098 ]
+Mejor Fitness Epoca: 233 : 4.004464931219811
+Mejor solución encontrada: [-0.00452395  1.97970999]
+Mejor Fitness Epoca: 234 : 4.004464930837205
+Mejor solución encontrada: [-0.00452442  1.9797102 ]
+Mejor Fitness Epoca: 235 : 4.004464930544522
+Mejor solución encontrada: [-0.00452489  1.97971041]
+Mejor Fitness Epoca: 236 : 4.004464930405398
+Mejor solución encontrada: [-0.00452542  1.97971065]
+Mejor Fitness Epoca: 237 : 4.004464930295265
+Mejor solución encontrada: [-0.0045259   1.97971086]
+Mejor Fitness Epoca: 238 : 4.004464930230753
+Mejor solución encontrada: [-0.00452618  1.97971099]
+Mejor Fitness Epoca: 239 : 4.004464930207842
+Mejor solución encontrada: [-0.00452624  1.97971101]
+Mejor Fitness Epoca: 240 : 4.004464930231734
+Mejor solución encontrada: [-0.00452626  1.97971103]
+Mejor Fitness Epoca: 241 : 4.004464930203021
+Mejor solución encontrada: [-0.00452612  1.97971096]
+Mejor Fitness Epoca: 242 : 4.004464930183758
+Mejor solución encontrada: [-0.00452605  1.97971093]
+Mejor Fitness Epoca: 243 : 4.004464930181168
+Mejor solución encontrada: [-0.00452601  1.97971091]
+Mejor Fitness Epoca: 244 : 4.004464930175995
+Mejor solución encontrada: [-0.00452592  1.97971087]
+Mejor Fitness Epoca: 245 : 4.004464930172146
+Mejor solución encontrada: [-0.00452588  1.97971086]
+Mejor Fitness Epoca: 246 : 4.004464930168291
+Mejor solución encontrada: [-0.0045258   1.97971082]
+Mejor Fitness Epoca: 247 : 4.004464930156031
+Mejor solución encontrada: [-0.00452576  1.9797108 ]
+Mejor Fitness Epoca: 248 : 4.004464930144115
+Mejor solución encontrada: [-0.00452572  1.97971079]
+Mejor Fitness Epoca: 249 : 4.004464930136745
+Mejor solución encontrada: [-0.00452566  1.97971076]
+Mejor Fitness Epoca: 250 : 4.004464930120982
+Mejor solución encontrada: [-0.00452563  1.97971074]
+Mejor Fitness Epoca: 251 : 4.004464930109666
+Mejor solución encontrada: [-0.00452559  1.97971073]
+Mejor Fitness Epoca: 252 : 4.004464930102543
+Mejor solución encontrada: [-0.00452556  1.97971071]
+Mejor Fitness Epoca: 253 : 4.004464930097454
+Mejor solución encontrada: [-0.00452553  1.9797107 ]
+Mejor Fitness Epoca: 254 : 4.004464930093707
+Mejor solución encontrada: [-0.00452551  1.97971069]
+Mejor Fitness Epoca: 255 : 4.004464930086749
+Mejor solución encontrada: [-0.00452548  1.97971068]
+Mejor Fitness Epoca: 256 : 4.004464930079772
+Mejor solución encontrada: [-0.00452544  1.97971066]
+Mejor Fitness Epoca: 257 : 4.004464930074311
+Mejor solución encontrada: [-0.00452541  1.97971064]
+Mejor Fitness Epoca: 258 : 4.004464930070446
+Mejor solución encontrada: [-0.00452538  1.97971063]
+Mejor Fitness Epoca: 259 : 4.004464930066822
+Mejor solución encontrada: [-0.00452535  1.97971062]
+Mejor Fitness Epoca: 260 : 4.0044649300614115
+Mejor solución encontrada: [-0.00452531  1.9797106 ]
+Mejor Fitness Epoca: 261 : 4.004464930057985
+Mejor solución encontrada: [-0.00452527  1.97971058]
+Mejor Fitness Epoca: 262 : 4.004464930054967
+Mejor solución encontrada: [-0.00452521  1.97971056]
+Mejor Fitness Epoca: 263 : 4.004464930051954
+Mejor solución encontrada: [-0.00452515  1.97971053]
+Mejor Fitness Epoca: 264 : 4.004464930049918
+Mejor solución encontrada: [-0.00452511  1.97971051]
+Mejor Fitness Epoca: 265 : 4.004464930049103
+Mejor solución encontrada: [-0.00452507  1.9797105 ]
+Mejor Fitness Epoca: 266 : 4.004464930049457
+Mejor solución encontrada: [-0.00452507  1.97971049]
+Mejor Fitness Epoca: 267 : 4.004464930049171
+Mejor solución encontrada: [-0.00452507  1.97971049]
+Mejor Fitness Epoca: 268 : 4.004464930048641
+Mejor solución encontrada: [-0.00452507  1.9797105 ]
+Mejor Fitness Epoca: 269 : 4.004464930048597
+Mejor solución encontrada: [-0.00452508  1.9797105 ]
+Mejor Fitness Epoca: 270 : 4.004464930048551
+Mejor solución encontrada: [-0.00452509  1.9797105 ]
+Mejor Fitness Epoca: 271 : 4.004464930048455
+Mejor solución encontrada: [-0.0045251   1.97971051]
+Mejor Fitness Epoca: 272 : 4.004464930048373
+Mejor solución encontrada: [-0.0045251   1.97971051]
+Mejor Fitness Epoca: 273 : 4.004464930048231
+Mejor solución encontrada: [-0.0045251   1.97971051]
+Mejor Fitness Epoca: 274 : 4.004464930047821
+Mejor solución encontrada: [-0.0045251   1.97971051]
+Mejor Fitness Epoca: 275 : 4.004464930047524
+Mejor solución encontrada: [-0.00452509  1.9797105 ]
+Mejor Fitness Epoca: 276 : 4.004464930047385
+Mejor solución encontrada: [-0.00452509  1.9797105 ]
+Mejor Fitness Epoca: 277 : 4.004464930047293
+Mejor solución encontrada: [-0.00452508  1.9797105 ]
+Mejor Fitness Epoca: 278 : 4.004464930047217
+Mejor solución encontrada: [-0.00452508  1.9797105 ]
+Mejor Fitness Epoca: 279 : 4.004464930046984
+Mejor solución encontrada: [-0.00452507  1.97971049]
+Mejor Fitness Epoca: 280 : 4.00446493004668
+Mejor solución encontrada: [-0.00452506  1.97971049]
+Mejor Fitness Epoca: 281 : 4.004464930046529
+Mejor solución encontrada: [-0.00452505  1.97971049]
+Mejor Fitness Epoca: 282 : 4.0044649300464705
+Mejor solución encontrada: [-0.00452504  1.97971048]
+Mejor Fitness Epoca: 283 : 4.004464930046433
+Mejor solución encontrada: [-0.00452504  1.97971048]
+Mejor Fitness Epoca: 284 : 4.004464930046408
+Mejor solución encontrada: [-0.00452503  1.97971048]
+Mejor Fitness Epoca: 285 : 4.004464930046385
+Mejor solución encontrada: [-0.00452503  1.97971047]
+Mejor Fitness Epoca: 286 : 4.004464930046364
+Mejor solución encontrada: [-0.00452502  1.97971047]
+Mejor Fitness Epoca: 287 : 4.0044649300463515
+Mejor solución encontrada: [-0.00452502  1.97971047]
+Mejor Fitness Epoca: 288 : 4.004464930046344
+Mejor solución encontrada: [-0.00452502  1.97971047]
+Mejor Fitness Epoca: 289 : 4.004464930046343
+Mejor solución encontrada: [-0.00452502  1.97971047]
+Mejor Fitness Epoca: 290 : 4.004464930046337
+Mejor solución encontrada: [-0.00452502  1.97971047]
+Mejor Fitness Epoca: 291 : 4.004464930046328
+Mejor solución encontrada: [-0.00452502  1.97971047]
+Mejor Fitness Epoca: 292 : 4.004464930046312
+Mejor solución encontrada: [-0.00452502  1.97971047]
+Mejor Fitness Epoca: 293 : 4.004464930046302
+Mejor solución encontrada: [-0.00452502  1.97971047]
+Mejor Fitness Epoca: 294 : 4.004464930046289
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 295 : 4.00446493004627
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 296 : 4.004464930046257
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 297 : 4.00446493004624
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 298 : 4.004464930046229
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 299 : 4.004464930046218
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 300 : 4.004464930046192
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 301 : 4.004464930046167
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 302 : 4.004464930046147
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 303 : 4.004464930046126
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 304 : 4.00446493004611
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 305 : 4.004464930046087
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 306 : 4.0044649300459945
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 307 : 4.0044649300459465
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 308 : 4.004464930045874
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 309 : 4.0044649300458275
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 310 : 4.004464930045799
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 311 : 4.0044649300457085
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 312 : 4.0044649300455415
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 313 : 4.004464930045444
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 314 : 4.0044649300453905
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 315 : 4.00446493004525
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 316 : 4.00446493004506
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 317 : 4.004464930044929
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 318 : 4.004464930044822
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 319 : 4.004464930044573
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 320 : 4.004464930044266
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 321 : 4.004464930043996
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 322 : 4.004464930043792
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 323 : 4.004464930043602
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 324 : 4.004464930043373
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 325 : 4.004464930043232
+Mejor solución encontrada: [-0.00452501  1.97971047]
+Mejor Fitness Epoca: 326 : 4.0044649300429445
+Mejor solución encontrada: [-0.004525    1.97971047]
+Mejor Fitness Epoca: 327 : 4.004464930042683
+Mejor solución encontrada: [-0.004525    1.97971046]
+Mejor Fitness Epoca: 328 : 4.004464930042499
+Mejor solución encontrada: [-0.004525    1.97971046]
+Mejor Fitness Epoca: 329 : 4.004464930042307
+Mejor solución encontrada: [-0.004525    1.97971046]
+Mejor Fitness Epoca: 330 : 4.004464930041779
+Mejor solución encontrada: [-0.004525    1.97971046]
+Mejor Fitness Epoca: 331 : 4.0044649300414825
+Mejor solución encontrada: [-0.004525    1.97971046]
+Mejor Fitness Epoca: 332 : 4.004464930041255
+Mejor solución encontrada: [-0.004525    1.97971046]
+Mejor Fitness Epoca: 333 : 4.004464930040939
+Mejor solución encontrada: [-0.004525    1.97971046]
+Mejor Fitness Epoca: 334 : 4.004464930040424
+Mejor solución encontrada: [-0.004525    1.97971046]
+Mejor Fitness Epoca: 335 : 4.004464930039342
+Mejor solución encontrada: [-0.00452499  1.97971046]
+Mejor Fitness Epoca: 336 : 4.004464930038608
+Mejor solución encontrada: [-0.00452499  1.97971046]
+Mejor Fitness Epoca: 337 : 4.004464930038081
+Mejor solución encontrada: [-0.00452499  1.97971046]
+Mejor Fitness Epoca: 338 : 4.004464930037434
+Mejor solución encontrada: [-0.00452499  1.97971046]
+Mejor Fitness Epoca: 339 : 4.004464930036647
+Mejor solución encontrada: [-0.00452498  1.97971046]
+Mejor Fitness Epoca: 340 : 4.004464930036169
+Mejor solución encontrada: [-0.00452498  1.97971046]
+Mejor Fitness Epoca: 341 : 4.004464930035651
+Mejor solución encontrada: [-0.00452498  1.97971045]
+Mejor Fitness Epoca: 342 : 4.004464930034901
+Mejor solución encontrada: [-0.00452498  1.97971045]
+Mejor Fitness Epoca: 343 : 4.004464930034278
+Mejor solución encontrada: [-0.00452497  1.97971045]
+Mejor Fitness Epoca: 344 : 4.0044649300319755
+Mejor solución encontrada: [-0.00452497  1.97971045]
+Mejor Fitness Epoca: 345 : 4.0044649300302595
+Mejor solución encontrada: [-0.00452497  1.97971045]
+Mejor Fitness Epoca: 346 : 4.004464930029407
+Mejor solución encontrada: [-0.00452496  1.97971045]
+Mejor Fitness Epoca: 347 : 4.004464930027829
+Mejor solución encontrada: [-0.00452496  1.97971044]
+Mejor Fitness Epoca: 348 : 4.004464930025776
+Mejor solución encontrada: [-0.00452495  1.97971044]
+Mejor Fitness Epoca: 349 : 4.0044649300220225
+Mejor solución encontrada: [-0.00452494  1.97971044]
+Mejor Fitness Epoca: 350 : 4.004464930019424
+Mejor solución encontrada: [-0.00452493  1.97971043]
+Mejor Fitness Epoca: 351 : 4.004464930017837
+Mejor solución encontrada: [-0.00452492  1.97971043]
+Mejor Fitness Epoca: 352 : 4.004464930015526
+Mejor solución encontrada: [-0.0045249   1.97971042]
+Mejor Fitness Epoca: 353 : 4.004464930013141
+Mejor solución encontrada: [-0.00452489  1.97971041]
+Mejor Fitness Epoca: 354 : 4.004464930006797
+Mejor solución encontrada: [-0.00452488  1.97971041]
+Mejor Fitness Epoca: 355 : 4.004464930001408
+Mejor solución encontrada: [-0.00452485  1.9797104 ]
+Mejor Fitness Epoca: 356 : 4.00446492999871
+Mejor solución encontrada: [-0.00452483  1.97971039]
+Mejor Fitness Epoca: 357 : 4.004464929995777
+Mejor solución encontrada: [-0.00452482  1.97971038]
+Mejor Fitness Epoca: 358 : 4.004464929983719
+Mejor solución encontrada: [-0.0045248   1.97971037]
+Mejor Fitness Epoca: 359 : 4.004464929977265
+Mejor solución encontrada: [-0.00452477  1.97971036]
+Mejor Fitness Epoca: 360 : 4.004464929974025
+Mejor solución encontrada: [-0.00452476  1.97971036]
+Mejor Fitness Epoca: 361 : 4.004464929971839
+Mejor solución encontrada: [-0.00452474  1.97971035]
+Mejor Fitness Epoca: 362 : 4.004464929969428
+Mejor solución encontrada: [-0.00452471  1.97971033]
+Mejor Fitness Epoca: 363 : 4.0044649299646355
+Mejor solución encontrada: [-0.00452469  1.97971032]
+Mejor Fitness Epoca: 364 : 4.0044649299618165
+Mejor solución encontrada: [-0.00452467  1.97971032]
+Mejor Fitness Epoca: 365 : 4.004464929951375
+Mejor solución encontrada: [-0.00452464  1.9797103 ]
+Mejor Fitness Epoca: 366 : 4.004464929943911
+Mejor solución encontrada: [-0.0045246   1.97971028]
+Mejor Fitness Epoca: 367 : 4.004464929940008
+Mejor solución encontrada: [-0.00452457  1.97971027]
+Mejor Fitness Epoca: 368 : 4.00446492993693
+Mejor solución encontrada: [-0.00452455  1.97971026]
+Mejor Fitness Epoca: 369 : 4.004464929935072
+Mejor solución encontrada: [-0.00452453  1.97971025]
+Mejor Fitness Epoca: 370 : 4.00446492993208
+Mejor solución encontrada: [-0.00452448  1.97971023]
+Mejor Fitness Epoca: 371 : 4.004464929928265
+Mejor solución encontrada: [-0.00452443  1.97971021]
+Mejor Fitness Epoca: 372 : 4.004464929926062
+Mejor solución encontrada: [-0.00452438  1.97971018]
+Mejor Fitness Epoca: 373 : 4.004464929923483
+Mejor solución encontrada: [-0.00452431  1.97971016]
+Mejor Fitness Epoca: 374 : 4.004464929921252
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 375 : 4.004464929921335
+Mejor solución encontrada: [-0.00452426  1.97971013]
+Mejor Fitness Epoca: 376 : 4.00446492992188
+Mejor solución encontrada: [-0.00452425  1.97971013]
+Mejor Fitness Epoca: 377 : 4.004464929921603
+Mejor solución encontrada: [-0.00452427  1.97971014]
+Mejor Fitness Epoca: 378 : 4.004464929921172
+Mejor solución encontrada: [-0.00452428  1.97971014]
+Mejor Fitness Epoca: 379 : 4.0044649299212
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 380 : 4.004464929921193
+Mejor solución encontrada: [-0.00452429  1.97971014]
+Mejor Fitness Epoca: 381 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 382 : 4.004464929921179
+Mejor solución encontrada: [-0.00452429  1.97971014]
+Mejor Fitness Epoca: 383 : 4.0044649299211805
+Mejor solución encontrada: [-0.00452429  1.97971014]
+Mejor Fitness Epoca: 384 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 385 : 4.004464929921166
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 386 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 387 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 388 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 389 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 390 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 391 : 4.0044649299211645
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 392 : 4.004464929921166
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 393 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 394 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 395 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 396 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 397 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 398 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 399 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 400 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 401 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 402 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 403 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 404 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 405 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 406 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 407 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 408 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 409 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 410 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 411 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 412 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 413 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 414 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 415 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 416 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 417 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 418 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 419 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 420 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 421 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 422 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 423 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 424 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 425 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 426 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 427 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 428 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 429 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 430 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 431 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 432 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 433 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 434 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 435 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 436 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 437 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 438 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 439 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 440 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 441 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 442 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 443 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 444 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 445 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 446 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 447 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 448 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 449 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 450 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 451 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 452 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 453 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 454 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 455 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 456 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 457 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 458 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 459 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 460 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 461 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 462 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 463 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 464 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 465 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 466 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 467 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 468 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 469 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 470 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 471 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 472 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 473 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 474 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 475 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 476 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 477 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 478 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 479 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 480 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 481 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 482 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 483 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 484 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 485 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 486 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 487 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 488 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 489 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 490 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 491 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 492 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 493 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 494 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 495 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 496 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 497 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 498 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 499 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 500 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 501 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 502 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 503 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 504 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 505 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 506 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 507 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 508 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 509 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 510 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 511 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 512 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 513 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 514 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 515 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 516 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 517 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 518 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 519 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 520 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 521 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 522 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 523 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 524 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 525 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 526 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 527 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 528 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 529 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 530 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 531 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 532 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 533 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 534 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 535 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 536 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 537 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 538 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 539 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 540 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 541 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 542 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 543 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 544 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 545 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 546 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 547 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 548 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 549 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 550 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 551 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 552 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 553 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 554 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 555 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 556 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 557 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 558 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 559 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 560 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 561 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 562 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 563 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 564 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 565 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 566 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 567 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 568 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 569 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 570 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 571 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 572 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 573 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 574 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 575 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 576 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 577 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 578 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 579 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 580 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 581 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 582 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 583 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 584 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 585 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 586 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 587 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 588 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 589 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 590 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 591 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 592 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 593 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 594 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 595 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 596 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 597 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 598 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 599 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 600 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 601 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 602 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 603 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 604 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 605 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 606 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 607 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 608 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 609 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 610 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 611 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 612 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 613 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 614 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 615 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 616 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 617 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 618 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 619 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 620 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 621 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 622 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 623 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 624 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 625 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 626 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 627 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 628 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 629 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 630 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 631 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 632 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 633 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 634 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 635 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 636 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 637 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 638 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 639 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 640 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 641 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 642 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 643 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 644 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 645 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 646 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 647 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 648 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 649 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 650 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 651 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 652 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 653 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 654 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 655 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 656 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 657 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 658 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 659 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 660 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 661 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 662 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 663 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 664 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 665 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 666 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 667 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 668 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 669 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 670 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 671 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 672 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 673 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 674 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 675 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 676 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 677 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 678 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 679 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 680 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 681 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 682 : 4.0044649299211645
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 683 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 684 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 685 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 686 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 687 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 688 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 689 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 690 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 691 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 692 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 693 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 694 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 695 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 696 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 697 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 698 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 699 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 700 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 701 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 702 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 703 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 704 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 705 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 706 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 707 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 708 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 709 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 710 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 711 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 712 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 713 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 714 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 715 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 716 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 717 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 718 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 719 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 720 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 721 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 722 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 723 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 724 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 725 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 726 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 727 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 728 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 729 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 730 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 731 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 732 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 733 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 734 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 735 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 736 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 737 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 738 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 739 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 740 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 741 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 742 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 743 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 744 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 745 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 746 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 747 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 748 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 749 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 750 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 751 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 752 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 753 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 754 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 755 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 756 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 757 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 758 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 759 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 760 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 761 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 762 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 763 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 764 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 765 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 766 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 767 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 768 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 769 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 770 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 771 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 772 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 773 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 774 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 775 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 776 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 777 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 778 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 779 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 780 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 781 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 782 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 783 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 784 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 785 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 786 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 787 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 788 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 789 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 790 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 791 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 792 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 793 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 794 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 795 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 796 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 797 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 798 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 799 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 800 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 801 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 802 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 803 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 804 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 805 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 806 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 807 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 808 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 809 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 810 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 811 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 812 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 813 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 814 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 815 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 816 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 817 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 818 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 819 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 820 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 821 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 822 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 823 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 824 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 825 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 826 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 827 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 828 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 829 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 830 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 831 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 832 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 833 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 834 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 835 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 836 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 837 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 838 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 839 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 840 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 841 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 842 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 843 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 844 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 845 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 846 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 847 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 848 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 849 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 850 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 851 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 852 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 853 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 854 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 855 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 856 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 857 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 858 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 859 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 860 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 861 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 862 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 863 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 864 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 865 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 866 : 4.0044649299211645
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 867 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 868 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 869 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 870 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 871 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 872 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 873 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 874 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 875 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 876 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 877 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 878 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 879 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 880 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 881 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 882 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 883 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 884 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 885 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 886 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 887 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 888 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 889 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 890 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 891 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 892 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 893 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 894 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 895 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 896 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 897 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 898 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 899 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 900 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 901 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 902 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 903 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 904 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 905 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 906 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 907 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 908 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 909 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 910 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 911 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 912 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 913 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 914 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 915 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 916 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 917 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 918 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 919 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 920 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 921 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 922 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 923 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 924 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 925 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 926 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 927 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 928 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 929 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 930 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 931 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 932 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 933 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 934 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 935 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 936 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 937 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 938 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 939 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 940 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 941 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 942 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 943 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 944 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 945 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 946 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 947 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 948 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 949 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 950 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 951 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 952 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 953 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 954 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 955 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 956 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 957 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 958 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 959 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 960 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 961 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 962 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 963 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 964 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 965 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 966 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 967 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 968 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 969 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 970 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 971 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 972 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 973 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 974 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 975 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 976 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 977 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 978 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 979 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 980 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 981 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 982 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 983 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 984 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 985 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 986 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 987 : 4.004464929921163
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 988 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 989 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 990 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 991 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 992 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 993 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 994 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 995 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 996 : 4.004464929921161
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 997 : 4.004464929921157
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 998 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Mejor Fitness Epoca: 999 : 4.004464929921159
+Mejor solución encontrada: [-0.00452429  1.97971015]
+Solucion: [-0.00452429  1.97971015]
+Fitness: 4.004464929921157

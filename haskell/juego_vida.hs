@@ -71,5 +71,4 @@ life b = do cls
             life (nextgen b)
 
 wait :: Int -> IO ()
---wait n = sequence_ [return () | _ <- [1..n]]
 wait = threadDelay

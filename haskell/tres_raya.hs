@@ -7,13 +7,12 @@ size = 3
 
 type Grid = [[Player]]
 
--- player B is blank
 data Player = O | B | X
         deriving (Eq, Ord, Show)
 
 next :: Player -> Player
 next O = X
-next B = B  -- Hm.. :/
+next B = B
 next X = O
 
 empty :: Grid
@@ -22,7 +21,6 @@ empty = replicate size (replicate size B)
 full :: Grid -> Bool
 full = all (/= B) . concat
 
--- assumes player O goes first
 turn :: Grid -> Player
 turn g = if os <= xs then O else X
         where
@@ -38,9 +36,6 @@ wins p g = any line (rows ++ cols ++ dias)
                 cols = transpose g
                 dias = [diag g, diag (map reverse g)]
 
--- from Data.List
--- > transpose [[1,2,3],[4,5,6],[7,8,9]]
--- [[1,4,7],[2,5,8],[3,6,9]]
 
 diag :: Grid -> [Player]
 diag g = [g !! n !! n | n <- [0..size-1]]
@@ -115,15 +110,14 @@ run' g p | wins O g = putStrLn "Player O wins!\n"
 prompt :: Player -> String
 prompt p = "Player " ++ show p ++ ", enter your move: "
 
--- from chapter 10
+
 cls :: IO ()
 cls = putStr "\ESC[2J"
 
--- from chapter 10
+
 goto :: (Int,Int) -> IO ()
 goto (x,y) = putStr ("\ESC[" ++ show y ++ ";" ++ show x ++ "H")
 
--- Game trees --
 data Tree a = Node a [Tree a]
               deriving Show
 
@@ -136,7 +130,6 @@ moves g p | won g || full g = []
           | otherwise = concat [move g i p | i <- [0..s]]
             where s = size^2 - 1
 
--- Pruning the tree
 prune :: Int -> Tree a -> Tree a
 prune 0 (Node x _)  = Node x []
 prune n (Node x ts) = Node x [prune (n-1) t | t <- ts]
@@ -144,7 +137,6 @@ prune n (Node x ts) = Node x [prune (n-1) t | t <- ts]
 depth :: Int
 depth = size^2
 
--- Minimax algorithm
 minimax :: Tree Grid -> Tree (Grid,Player)
 minimax (Node g []) | wins O g  = Node (g,O) []
                     | wins X g  = Node (g,X) []
@@ -160,7 +152,6 @@ bestmove g p = head [g' | Node (g',p') _ <- ts, p' == best]
                     tree = prune depth (gametree g p)
                     Node (_, best) ts = minimax tree
 
--- Human vs computer
 
 main :: IO ()
 main = do hSetBuffering stdout NoBuffering
